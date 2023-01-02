@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vkazemi
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Arduino programming
+- 🌱 I’m currently learning Laravel framework
 - 💞️ I’m looking to collaborate on challenging programming
 - 📫 How to reach me https://www.linkedin.com/in/vahid-kazemi-96194578/
 
